@@ -9,8 +9,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/calderview" />
             <option value="$PROJECT_DIR$/copyqqsmooth" />
             <option value="$PROJECT_DIR$/huadongshanchu" />
+            <option value="$PROJECT_DIR$/listpopup" />
+            <option value="$PROJECT_DIR$/listpopupwindow" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

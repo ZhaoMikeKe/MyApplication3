@@ -1,1 +1,1 @@
-include ':app', ':huadongshanchu', ':copyqqsmooth'
+include ':app', ':huadongshanchu', ':copyqqsmooth', ':listpopup', ':listpopupwindow', ':calderview'
